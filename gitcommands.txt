@@ -1,0 +1,13 @@
+steps and git commands used
+
+1. I created an empty repository
+git commands
+- git init
+- git branch -M main
+- git remote add origin https://github.com/ernstlegaspi/todolist-exam.git
+- git push -u origin main
+
+2. If there are changes in any file
+- git add .
+- git commit -m "my comment in the file changed"
+- git push -u origin main
